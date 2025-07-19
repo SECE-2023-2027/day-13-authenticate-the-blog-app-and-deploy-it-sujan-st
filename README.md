@@ -1,1 +1,1 @@
-https://vercel.com/sujan-sts-projects/bloge-app-9dnh/5sBmgDoM9BJK87bVFu64zAFVZsi1
+https://bloge-app-9dnh-lrd3pho70-sujan-sts-projects.vercel.app
